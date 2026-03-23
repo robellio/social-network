@@ -1,4 +1,4 @@
-# Social-network -> Em Desenvolvimento
+# Social-network
 
 ![Visualização do Grafo](exports/diagram.png)
 
